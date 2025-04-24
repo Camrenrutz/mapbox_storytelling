@@ -15,7 +15,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Final Essay',
+    title: 'Souther Literature Virtual Essay',
     subtitle: 'Spatial Journeys across the South 2',
     byline: 'Camren Rutz',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
