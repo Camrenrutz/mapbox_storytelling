@@ -25,7 +25,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: 'The Color Purple',
-            image: './Rural_Georgia.png',
+            image: './town_of_talking_rock_georgia_.jpg',
             description: 'This is where I insert a description of the novel',
             location: {
                 center: [-90.3150946, 38.6605671],
