@@ -24,10 +24,10 @@ var config = {
             id: 'opening',
             alignment: 'centered',
             hidden: false,
-            title: 'The Color Purple',
+            title: 'Autonomy',
             image: './town_of_talking_rock_georgia_.jpg',
-            description: 'This is where I insert a description of the novel',
-            location: {
+            description: 'Autonomy is defined as the capacity to make an informed, uncoerced decision. Autonomous organizations_individuals_or institutions are independent or self-governing. Throughout this presentation we will discuss the growth of autonomy on an individual level in the Southern United States through movement and economic transaction and how time period_race_and gender and gender all play into an individuals ability to exercise free will.'
+            ,location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
                 pitch: 60,
@@ -112,6 +112,4 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        }
-    ]
-};
+        }, 
