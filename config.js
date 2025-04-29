@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -119,7 +119,7 @@ var config = {
             hidden: false,
             title: 'Time Period of Their Eyes Were Watching God',
             image: './assets/color_purple_field.jpg',
-            description: 'Close of the novel.',
+            description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -132,5 +132,24 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        {
+            id: 'chapter-five',
+            alignment: 'left',
+            hidden: false,
+            title: 'Race in Their Eyes Were Watching God',
+            image: './assets/color_purple_field.jpg',
+            description: '',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
     ]
-} 
+}
