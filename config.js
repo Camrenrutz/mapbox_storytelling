@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Time Period of As I Lay Dying- Kyle Carey',
-            image: './assets/alice_walker_childhood_home.jpg',
+            image: '',
             description: 'As I Lay Dying is the book set the farthest back in time, set in the 1930s in Mississippi. The book follows a family of six, a father and his five children, who are on their way to bury their mother in Jefferson, Mississippi. Notable historical events during the time of this story include; The Great Migration where Millions of African Americans moved out of the Southern US to the North to seek job opportunities and fairer treatment, The Great Depression which led to the highest rate of unemployment and poverty the US had ever seen, and the inforduction of consumer cars which gave mobility to thousands of people.',
             location: {
                 center: [-83.5573651, 32.5573651], 
@@ -80,7 +80,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Race in As I Lay Dying- Kyle Carey',
-            image: './assets/firestone_farm.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
@@ -99,7 +99,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
-            image: './assets/color_purple_field.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -118,7 +118,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Time Period of Their Eyes Were Watching God',
-            image: './assets/color_purple_field.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -137,7 +137,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Race in Their Eyes Were Watching God',
-            image: './assets/color_purple_field.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
@@ -156,7 +156,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Gender in Their Eyes Were Watching God',
-            image: './assets/color_purple_field.jpg',
+            image: '',
             description: '',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
