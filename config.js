@@ -151,5 +151,25 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }, 
+        {
+            id: 'chapter-six',
+            alignment: 'left',
+            hidden: false,
+            title: 'Gender in Their Eyes Were Watching God',
+            image: './assets/color_purple_field.jpg',
+            description: '',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        }, 
     ]
-}
+} 
+        
