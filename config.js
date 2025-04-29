@@ -80,7 +80,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Race in As I Lay Dying- Kyle Carey',
-            image: './As I Lay Dying.jpg',
+            image: 'assets/As I Lay Dying.jpg',
             description: 'add text',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
