@@ -96,7 +96,7 @@ var config = {
         },
         {
             id: 'chapter-three',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'End',
             image: './assets/color_purple_field.jpg',
