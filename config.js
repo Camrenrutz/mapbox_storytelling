@@ -114,27 +114,23 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-four',
-            alignment: 'right',
+            id: 'chapter-three',
+            alignment: 'fully',
             hidden: false,
-            title: 'Insert title',
-            image: './assets/alice_walker_childhood_home.jpg',
-            description: '',
+            title: 'End',
+            image: './assets/color_purple_field.jpg',
+            description: 'Close of the novel.',
             location: {
-                center: [-83.5573651, 32.5573651], 
-                zoom: 6.5,
-                pitch: 60,
-                bearing: -43.2,
-                // flyTo additional controls-
-                // These options control the flight curve, making it move
-                // slowly and zoom out almost completely before starting
-                // to pan.
-                //speed: 2, // make the flying slow
-                //curve: 1, // change the speed at which it zooms out
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
-        }, 
+        },
+    ]
+} 
