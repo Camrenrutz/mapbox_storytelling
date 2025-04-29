@@ -26,7 +26,7 @@ var config = {
             hidden: false,
             title: 'Autonomy',
             image: '',
-            description: 'Autonomy is defined as the capacity to make an informed, uncoerced decision. Autonomous organizations, individuals, or institutions are independent or self-governing. Throughout this presentation we will discuss the growth of autonomy on an individual level in the Southern United States through movement and economic transaction and how time period, race, and gender and gender all play into an individuals ability to exercise free will.'
+            description: 'Autonomy is defined as the capacity to make an informed, uncoerced decision. Autonomous organizations, individual\'s, or institutions are independent or self-governing. Throughout this presentation we will discuss the growth of autonomy on an individual level in the Southern United States through movement and economic transaction and how time period, race, and gender and gender all play into an individuals ability to exercise free will.'
             ,location: {
                 center: [-90.3150946, 38.6605671],
                 zoom: 4,
