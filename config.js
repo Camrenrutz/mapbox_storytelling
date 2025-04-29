@@ -77,7 +77,7 @@ var config = {
         },
         {
             id: 'chapter-two',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Olinka',
             image: './assets/firestone_farm.jpg',
