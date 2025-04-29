@@ -98,7 +98,7 @@ var config = {
             id: 'chapter-three',
             alignment: 'right',
             hidden: false,
-            title: 'End',
+            title: 'Gender in As I Lay Dying',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
@@ -114,10 +114,10 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'chapter-three',
-            alignment: 'fully',
+            id: 'chapter-four',
+            alignment: 'left',
             hidden: false,
-            title: 'End',
+            title: 'Time Period of Their Eyes Were Watching God',
             image: './assets/color_purple_field.jpg',
             description: 'Close of the novel.',
             location: {
