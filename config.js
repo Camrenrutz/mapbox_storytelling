@@ -54,9 +54,9 @@ var config = {
             id: 'chapter-one',
             alignment: 'right',
             hidden: false,
-            title: 'Time Period of As I Lay Dying- Kyle Carey',
+            title: 'Time Period of <em>As I Lay Dying</em>- Kyle Carey',
             image: '',
-            description: 'As I Lay Dying is the book set the farthest back in time, set in the 1930s in Mississippi. The book follows a family of six, a father and his five children, who are on their way to bury their mother in Jefferson, Mississippi. Notable historical events during the time of this story include; The Great Migration where millions of African Americans moved out of the Southern US to the North to seek job opportunities and fairer treatment, The Great Depression which led to the highest rate of unemployment and poverty the US had ever seen, and the inforduction of consumer cars which gave mobility to thousands of people.',
+            description: '<em>As I Lay Dying</em> is the book set the farthest back in time, set in the 1930s in Mississippi. The book follows a family of six, a father and his five children, who are on their way to bury their mother in Jefferson, Mississippi. Notable historical events during the time of this story include; The Great Migration where millions of African Americans moved out of the Southern US to the North to seek job opportunities and fairer treatment, The Great Depression which led to the highest rate of unemployment and poverty the US had ever seen, and the inforduction of consumer cars which gave mobility to thousands of people.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -79,7 +79,7 @@ var config = {
             id: 'chapter-two',
             alignment: 'right',
             hidden: false,
-            title: 'Race in As I Lay Dying- Kyle Carey',
+            title: 'Race in <em>As I Lay Dying- Kyle Carey</em>',
             image: '',
             description: 'add text',
             location: {
@@ -98,7 +98,7 @@ var config = {
             id: 'chapter-three',
             alignment: 'right',
             hidden: false,
-            title: 'Gender in As I Lay Dying- Kyle Carey',
+            title: 'Gender in <em>As I Lay Dying</em>- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -117,7 +117,7 @@ var config = {
             id: 'chapter-four',
             alignment: 'left',
             hidden: false,
-            title: 'Time Period of Their Eyes Were Watching God',
+            title: 'Time Period of <em>Their Eyes Were Watching God</em>',
             image: '',
             description: 'add text',
             location: {
@@ -136,7 +136,7 @@ var config = {
             id: 'chapter-five',
             alignment: 'left',
             hidden: false,
-            title: 'Race in Their Eyes Were Watching God',
+            title: 'Race in <em>Their Eyes Were Watching God</em>',
             image: '',
             description: 'add text',
             location: {
@@ -155,7 +155,7 @@ var config = {
             id: 'chapter-six',
             alignment: 'left',
             hidden: false,
-            title: 'Gender in Their Eyes Were Watching God',
+            title: 'Gender in <em>Their Eyes Were Watching God</em>',
             image: '',
             description: 'add text',
             location: {
