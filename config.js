@@ -79,9 +79,9 @@ var config = {
             id: 'chapter-two',
             alignment: 'right',
             hidden: false,
-            title: 'Olinka',
+            title: 'Race in As I Lay Dying',
             image: './assets/firestone_farm.jpg',
-            description: 'Description of the Olinka people',
+            description: '',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
