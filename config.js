@@ -81,7 +81,7 @@ var config = {
             hidden: false,
             title: 'Race in As I Lay Dying- Kyle Carey',
             image: '',
-            description: '',
+            description: 'add text',
             location: {
                 center: [-10.378889436404226, 6.251275915595865], 
                 zoom: 8.00,
@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
             image: '',
-            description: '',
+            description: 'add text',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -119,7 +119,7 @@ var config = {
             hidden: false,
             title: 'Time Period of Their Eyes Were Watching God',
             image: '',
-            description: '',
+            description: 'add text',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -138,7 +138,7 @@ var config = {
             hidden: false,
             title: 'Race in Their Eyes Were Watching God',
             image: '',
-            description: '',
+            description: 'add text',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
@@ -157,7 +157,7 @@ var config = {
             hidden: false,
             title: 'Gender in Their Eyes Were Watching God',
             image: '',
-            description: '',
+            description: 'add text',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
