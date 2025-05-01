@@ -117,7 +117,7 @@ var config = {
             id: 'chapter-four',
             alignment: 'left',
             hidden: false,
-            title: 'Time Period of <em>Their Eyes Were Watching God</em>',
+            title: 'Time Period of <em>Their Eyes Were Watching God</em>- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -136,7 +136,7 @@ var config = {
             id: 'chapter-five',
             alignment: 'left',
             hidden: false,
-            title: 'Race in <em>Their Eyes Were Watching God</em>',
+            title: 'Race in <em>Their Eyes Were Watching God</em>- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -155,7 +155,7 @@ var config = {
             id: 'chapter-six',
             alignment: 'left',
             hidden: false,
-            title: 'Gender in <em>Their Eyes Were Watching God</em>',
+            title: 'Gender in <em>Their Eyes Were Watching God</em>- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -174,7 +174,7 @@ var config = {
         id: 'chapter-seven',
             alignment: 'right',
             hidden: false,
-            title: 'the color purple time period',
+            title: 'Time Period of The Color Purple- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -193,7 +193,7 @@ var config = {
         id: 'chapter-eight',
             alignment: 'right',
             hidden: false,
-            title: 'color purple gender',
+            title: 'Race in the The Color Purple- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -212,7 +212,7 @@ var config = {
         id: 'chapter-nine',
             alignment: 'right',
             hidden: false,
-            title: 'color purple race',
+            title: 'Gender in The Color Purple- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
@@ -231,7 +231,7 @@ var config = {
         id: 'chapter-ten',
             alignment: 'left',
             hidden: false,
-            title: 'salvage the bones time period',
+            title: 'Time Period of Salvage The Bones- Camren Rutz',
             image: '',
             description: 'add text',
             location: {
@@ -250,7 +250,7 @@ var config = {
         id: 'chapter-eleven',
             alignment: 'left',
             hidden: false,
-            title: 'salvage the bones gender',
+            title: 'Race in Salvage The Bones- Camren Rutz',
             image: '',
             description: 'add text',
             location: {
@@ -269,7 +269,7 @@ var config = {
         id: 'chapter-twelve',
             alignment: 'left',
             hidden: false,
-            title: 'salvage the bones race',
+            title: 'Gender in Salvage The Bones- Camren Rutz',
             image: '',
             description: 'add text',
             location: {
