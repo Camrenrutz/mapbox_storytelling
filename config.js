@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Time Period of <em>As I Lay Dying</em>- Kyle Carey',
-            image: '',
+            image: 'assests/As I Lay Dying Cover.jpg',
             description: '<em>As I Lay Dying</em> is the book set the farthest back in time, set in the 1930s in Mississippi. The book follows a family of six, a father and his five children, who are on their way to bury their mother in Jefferson, Mississippi. Notable historical events during the time of this story include; The Great Migration where millions of African Americans moved out of the Southern US to the North to seek job opportunities and fairer treatment, The Great Depression which led to the highest rate of unemployment and poverty the US had ever seen, and the inforduction of consumer cars which gave mobility to thousands of people.',
             location: {
                 center: [-83.5573651, 32.5573651], 
