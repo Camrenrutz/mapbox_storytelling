@@ -170,6 +170,139 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         }, 
+        {
+        id: 'chapter-seven',
+            alignment: 'right',
+            hidden: false,
+            title: 'the color purple time period',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []      
+        },
+        {
+        id: 'chapter-eight',
+            alignment: 'right',
+            hidden: false,
+            title: 'color purple gender',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+        id: 'chapter-nine',
+            alignment: 'right',
+            hidden: false,
+            title: 'color purple race',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+        id: 'chapter-ten',
+            alignment: 'left',
+            hidden: false,
+            title: 'salvage the bones time period',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+        id: 'chapter-eleven',
+            alignment: 'left',
+            hidden: false,
+            title: 'salvage the bones gender',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+        id: 'chapter-twelve',
+            alignment: 'left',
+            hidden: false,
+            title: 'salvage the bones race',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []     
+        },
+        {
+        id: 'chapter-thirteen',
+            alignment: 'left',
+            hidden: false,
+            title: 'Conclusion',
+            image: '',
+            description: 'add text',
+            location: {
+                center: [-41.47212410646295, 34.781162343274076], 
+                zoom: 3,
+                pitch: 30,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
     ]
-} 
+}
         
