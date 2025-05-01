@@ -79,7 +79,7 @@ var config = {
             id: 'chapter-two',
             alignment: 'right',
             hidden: false,
-            title: 'Race in <em>As I Lay Dying- Kyle Carey</em>',
+            title: 'Race in <em>As I Lay Dying</em>- Kyle Carey',
             image: '',
             description: 'add text',
             location: {
