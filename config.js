@@ -286,7 +286,7 @@ var config = {
         },
         {
         id: 'chapter-thirteen',
-            alignment: 'left',
+            alignment: 'fully',
             hidden: false,
             title: 'Conclusion',
             image: '',
