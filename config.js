@@ -84,7 +84,7 @@ var config = {
             description: 'add text',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
-                zoom: 8.00,
+                zoom: 6.5,
                 pitch: 45.0,
                 bearing: 0.00
             },
