@@ -178,7 +178,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-83.5573651, 32.5573651], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -197,7 +197,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-83.5573651, 32.5573651], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -216,7 +216,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-83.5573651, 32.5573651], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
