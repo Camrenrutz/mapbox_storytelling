@@ -176,7 +176,7 @@ var config = {
             hidden: false,
             title: 'Time Period of The Color Purple- Kyle Carey',
             image: '',
-            description: 'add text',
+            description: '<em>The Color Purple</em> is a book in which the time period progresses significantly throughout the novel, beginning in 1909 and ending in 1947. The book takes place in several places, from Georgia to Tennessee, and to Africa. The book follows Celie, a young girl who has been married off to Mr. and her journey to find her sense of self and purpose. During this time period both women and African Americans fought hard for equal rights and representation. Personal autonomy would have been difficult for a poor young black woman especially acquiring the funds for movement and spending. Notable events of the time would have included; both World Wars which came about from the emergence of global interconnectedness, causing tensions to rise and alliances to be formed, the 19th Amendment which gave women the right to vote in 1920, Roaring Twenties which was a people of economic and cultural boom, and Jim Crow Laws which segregated Whites and Blacks and legally authorized racism.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 3,
