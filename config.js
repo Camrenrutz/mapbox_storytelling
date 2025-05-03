@@ -58,7 +58,7 @@ var config = {
             image: '',
             description: '<em>As I Lay Dying</em> is the book set the farthest back in time, set in the 1930s in Mississippi. The book follows a family of six, a father and his five children, who are on their way to bury their mother in Jefferson, Mississippi. Notable historical events during the time of this story include; The Great Migration where millions of African Americans moved out of the Southern US to the North to seek job opportunities and fairer treatment, The Great Depression which led to the highest rate of unemployment and poverty the US had ever seen, and the inforduction of consumer cars which gave mobility to thousands of people.',
             location: {
-                center: [-83.5573651, 32.5573651], 
+                center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 6.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -83,7 +83,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-10.378889436404226, 6.251275915595865], 
+                center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 8.00,
                 pitch: 45.0,
                 bearing: 0.00
@@ -102,7 +102,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -121,7 +121,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -140,7 +140,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -159,7 +159,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -235,7 +235,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-89.26806244331303, 30.400637931513852], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -254,7 +254,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [-89.26806244331303, 30.400637931513852], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
@@ -273,7 +273,7 @@ var config = {
             image: '',
             description: 'add text',
             location: {
-                center: [-41.47212410646295, 34.781162343274076], 
+                center: [ -89.26806244331303, 30.400637931513852], 
                 zoom: 3,
                 pitch: 30,
                 bearing: 0
