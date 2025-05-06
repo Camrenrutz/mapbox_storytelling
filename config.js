@@ -80,8 +80,8 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Race in As I Lay Dying- Kyle Carey',
-            image: '<em>As I Lay Dying</em> is an exception to every other book on this list, featuring zero African American characters. This actually works in favor of this project, as it shows how the Bundren family does not have to deal with problems in regards to their own race. In the other novels we will discuss, race can be an inhibiting factor on movement and economic spending, however in <em>As I Lay Dying</em> because the Bundren family is white they do not have to deal with any issues.',
-            description: 'add text',
+            image: '',
+            description: '<em>As I Lay Dying</em> is an exception to every other book on this list, featuring zero African American characters. This actually works in favor of this project, as it shows how the Bundren family does not have to deal with problems in regards to their own race. In the other novels we will discuss, race can be an inhibiting factor on movement and economic spending, however in <em>As I Lay Dying</em> because the Bundren family is white they do not have to deal with any issues.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 6.5,
@@ -99,8 +99,8 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
-            image: '<em>As I Lay Dying</em> provides a unique insight into gender roles, as Dewey Dell and Addie Bundren are really the only female characters Faulkner provides the audience with insight on. <em>As I Lay Dying</em> is such a fascinating novel with it’s takes on gender, as it shows how everyone suffers from the patriarchy, not just women. Through Darl we see the patriarchy remove those who don’t conform, through Addie we see the patriarchy use and replace women for children, and through Dewey we see the oversexualization of women and the preying on the young/innocent.',
-            description: 'add text',
+            image: '',
+            description: '<em>As I Lay Dying</em> provides a unique insight into gender roles, as Dewey Dell and Addie Bundren are really the only female characters Faulkner provides the audience with insight on. <em>As I Lay Dying</em> is such a fascinating novel with it’s takes on gender, as it shows how everyone suffers from the patriarchy, not just women. Through Darl we see the patriarchy remove those who don’t conform, through Addie we see the patriarchy use and replace women for children, and through Dewey we see the oversexualization of women and the preying on the young/innocent.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 5,
