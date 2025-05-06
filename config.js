@@ -195,7 +195,7 @@ var config = {
             hidden: false,
             title: 'Race in the The Color Purple- Kyle Carey',
             image: '',
-            description: 'add text',
+            description: '<em>The Color Purple</em> is a novel that mostly deals with gender rather than race, however that does not mean that race does not play a part in this book. It takes the discussion of race to a multinational level by having characters visit both Africa and Europe, as well as showing how native Africans viewed Europeans. Since most characters are African American, there is not too many interactions between those of different races, however the impact of race can be felt in terms of class differences, as the White people who are introduced are well off and even British royalty.The most shocking point from the African continent is when the natives refuse to acknowledge any part of slavery, insinuating they likely allowed for it to happen.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 6.5,
@@ -214,7 +214,7 @@ var config = {
             hidden: false,
             title: 'Gender in The Color Purple- Kyle Carey',
             image: '',
-            description: 'add text',
+            description: '<em>The Color Purple</em> is the novel that touches the most on gender, dealing with a young woman’s journey of self discovery while navigating the patriarchy and her sexuality. Celie begins the book completely subservient to Albert believing that she should only listen and never express herself. However her outlook on life and womanhood is changed through her interactions with others throughout the novel; showing her women are capable and strong and that everyone deserves the right to autonomy.',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 5,
