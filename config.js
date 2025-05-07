@@ -251,7 +251,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Race in Salvage The Bones- Camren Rutz',
-            image: '',
+            image: './assets/stb_cover.jpeg',
             description: 'add text',
             location: {
                 center: [-89.26806244331303, 30.400637931513852], 
