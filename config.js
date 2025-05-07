@@ -80,7 +80,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Race in As I Lay Dying- Kyle Carey',
-            image: '',
+            image: './assets/aild_cover.jpeg',
             description: '<em>As I Lay Dying</em> is an exception to every other book on this list, featuring zero African American characters. This actually works in favor of this project, as it shows how the Bundren family does not have to deal with problems in regards to their own race. In the other novels we will discuss, race can be an inhibiting factor on movement and economic spending, however in <em>As I Lay Dying</em> because the Bundren family is white they do not have to deal with any issues.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
