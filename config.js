@@ -232,7 +232,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Time Period of Salvage The Bones- Camren Rutz',
-            image: '',
+            image: './assets/hurricane_kat.jpeg',
             description: 'add text',
             location: {
                 center: [-89.26806244331303, 30.400637931513852], 
