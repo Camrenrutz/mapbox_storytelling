@@ -214,7 +214,7 @@ var config = {
             hidden: false,
             title: 'Gender in The Color Purple- Kyle Carey',
             image: '',
-            description: '<em>The Color Purple</em> is the novel that touches the most on gender, dealing with a young woman’s journey of self discovery while navigating the patriarchy and her sexuality. Celie begins the book completely subservient to Albert believing that she should only listen and never express herself. However her outlook on life and womanhood is changed through her interactions with others throughout the novel; showing her women are capable and strong and that everyone deserves the right to autonomy.',
+            description: '<em>The Color Purple</em> is the novel that touches the most on gender, dealing with a young woman’s journey of self discovery while navigating the patriarchy and her sexuality. Celie begins the book completely subservient to Albert believing that she should only listen and never express herself. However her outlook on life and womanhood is changed through her interactions with others throughout the novel; showing her women are capable and strong and that everyone deserves the right to autonomy.<br> “All my life I had to fight. I had to fight my daddy. I had to fight my brothers. I had to fight my cousins and my uncles. A girl child ain’t safe in a family of men” (Walker, 39).',
             location: {
                 center: [-83.5573651, 32.5573651], 
                 zoom: 5,
