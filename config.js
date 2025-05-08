@@ -99,7 +99,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
-            image: '',
+            image: './assets/aild_coffin.jpeg',
             description: '<em>As I Lay Dying</em> provides a unique insight into gender roles, as Dewey Dell and Addie Bundren are really the only female characters Faulkner provides the audience with insight on. <em>As I Lay Dying</em> is such a fascinating novel with it’s takes on gender, as it shows how everyone suffers from the patriarchy, not just women. Through Darl we see the patriarchy remove those who don\’t conform, through Addie we see the patriarchy use and replace women for children, and through Dewey we see the oversexualization of women and the preying on the young/innocent.<br>“It\’s Cash and Jewel and Vardaman and Dewey Dell,” pa says, kind of hangdog and proud too, with his teeth and all, even if he wouldn’t look at us. “Meet Mrs. Bundren,” he says” (Faulkner). This quote is from the end of the book when Addie has been replaced by Anse for a new wife.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
