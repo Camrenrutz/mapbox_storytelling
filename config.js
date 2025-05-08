@@ -233,7 +233,7 @@ var config = {
             hidden: false,
             title: 'Time Period of Salvage The Bones- Camren Rutz',
             image: './assets/hurricane_kat.jpeg',
-            description: 'add text',
+            description: '<em>Salvage The Bones</em> takes place in a time completely different from all of the other books we have read. This book is the only book to take place in the 21st Century. Due to this, there are a lot of social and technological differences in <em>Salvage The Bones</em> that are not seen in any other book. Notable historical events include; the end of Jim Crow, which desegregated the nation 40 years prior, the emergence of internet and cellphones, allowing all people to connect more easily, and Hurricane Katrina, the main focal point surrounding <em>Salvage The Bones</em>',
             location: {
                 center: [-89.26806244331303, 30.400637931513852], 
                 zoom: 6.5,
