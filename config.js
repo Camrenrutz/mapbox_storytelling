@@ -271,7 +271,7 @@ var config = {
             hidden: false,
             title: 'Gender in Salvage The Bones- Camren Rutz',
             image: '',
-            description: 'Gender in <em>Salvage The Bones</em> is also an interesting aspect to examine. Esch is the only girl in her family, however she takes part in a lot of the things her brothers and father do. This can be seen when Esch is running away with her brothers when they are being chased by another dog. When it comes “care” roles, we see an inverse of cultural norms. An example of this is Skeetah looking after his dog China day and night, making sure she is healthy and that the her puppies are taken care of. Both of these instances go to show that gender roles are more fluid in the 21st Century compared to the early 20th Century.',
+            description: 'Gender in <em>Salvage The Bones</em> is also an interesting aspect to examine. Esch is the only girl in her family, however she takes part in a lot of the things her brothers and father do. This can be seen when Esch is running away with her brothers when they are being chased by another dog. When it comes “care” roles, we see an inverse of cultural norms. An example of this is Skeetah looking after his dog China day and night, making sure she is healthy and that the her puppies are taken care of. Both of these instances go to show that gender roles are more fluid in the 21st Century compared to the early 20th Century.<br>“Come on,” Skeet says, and he is moving in front of me, leaving me. I stretch my legs, reach with my heels, to gain ground. The dog rumbles behind me” (Ward, 80).',
             location: {
                 center: [ -89.26806244331303, 30.400637931513852], 
                 zoom: 5,
