@@ -118,7 +118,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Time Period of Their Eyes Were Watching God- Kyle Carey',
-            image: '',
+            image: './assets/florida_1930.jpg',
             description: 'add text',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
