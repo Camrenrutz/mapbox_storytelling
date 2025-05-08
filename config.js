@@ -290,7 +290,7 @@ var config = {
             hidden: false,
             title: 'Conclusion',
             image: '',
-            description: 'True autonomy is something that people have been fighting for since the dawn of civilization; with people having to overcome gender, race, class, and physical limits all for the right to choose how they can live. The novels we reviewed show just how personal autonomy changed in the Southern United States over time, and how both women and people of color fought for and secured their autonomy.',
+            description: 'True autonomy is something that people have been fighting for since the dawn of civilization; with people having to overcome gender, race, class, and physical limits all for the right to choose how they can live. The novels we reviewed show just how personal autonomy changed in the Southern United States over time. These novels show just how both women and people of color fought for and secured their autonomy through the breaking of gender norms, speaking up and rejecting false stereotypes, and the conscious decision to leave behind those who only treat them negatively. It is through the dedication and voices of people of color and women that autonomy has not only improved for them, but for everyone.',
             location: {
                 center: [-41.47212410646295, 34.781162343274076], 
                 zoom: 3,
