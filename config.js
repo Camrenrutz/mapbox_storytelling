@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Gender in As I Lay Dying- Kyle Carey',
             image: '',
-            description: '<em>As I Lay Dying</em> provides a unique insight into gender roles, as Dewey Dell and Addie Bundren are really the only female characters Faulkner provides the audience with insight on. <em>As I Lay Dying</em> is such a fascinating novel with it’s takes on gender, as it shows how everyone suffers from the patriarchy, not just women. Through Darl we see the patriarchy remove those who don’t conform, through Addie we see the patriarchy use and replace women for children, and through Dewey we see the oversexualization of women and the preying on the young/innocent.',
+            description: '<em>As I Lay Dying</em> provides a unique insight into gender roles, as Dewey Dell and Addie Bundren are really the only female characters Faulkner provides the audience with insight on. <em>As I Lay Dying</em> is such a fascinating novel with it\’s takes on gender, as it shows how everyone suffers from the patriarchy, not just women. Through Darl we see the patriarchy remove those who don\’t conform, through Addie we see the patriarchy use and replace women for children, and through Dewey we see the oversexualization of women and the preying on the young/innocent.',
             location: {
                 center: [-89.48848661057376, 34.28249827482276], 
                 zoom: 5,
@@ -138,7 +138,7 @@ var config = {
             hidden: false,
             title: 'Race in Their Eyes Were Watching God- Kyle Carey',
             image: './assets/eyes_watching_god.jpeg',
-            description: '<em>Their Eyes Were Watching God</em> has significant racial themes throughout its entirety diving the deepest out of any book here into race. For starters - Janie\’s grandmother Nanny was a slave. She deeply imprints upon Janie that financial security is incredibly important because when she was a slave she had none so she does not wish the same for Janie. On top of this, <em>Their Eyes Were Watching God</em> has the most interracial interactions out of all the books we read, with white men making Tea Cake bury bodies against his will, an all white male jury giving her the verdict, and even the white women consoling Janie after her court trial.<br>“Ah was born back due un slavery so it wasn\’t for me to fulfill my dreams of what a woman oughta be and to do. Dat\’s one of de hold-backs of slavery. But nothing can\’t stop you from wishin\’.” (Hurston, 20)',
+            description: '<em>Their Eyes Were Watching God</em> has significant racial themes throughout its entirety diving the deepest out of any book here into race. For starters - Janie\’s grandmother Nanny was a slave. She deeply imprints upon Janie that financial security is incredibly important because when she was a slave she had none so she does not wish the same for Janie. On top of this, <em>Their Eyes Were Watching God</em> has the most interracial interactions out of all the books we read, with white men making Tea Cake bury bodies against his will, an all white male jury giving her the verdict, and even the white women consoling Janie after her court trial.<br>“Ah was born back due un slavery so it wasn\’t for me to fulfill my dreams of what a woman oughta be and to do. Dat\’s one of de hold-backs of slavery. But nothing can\’t stop you from wishin\’” (Hurston, 20).',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 6.5,
@@ -156,7 +156,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Gender in Their Eyes Were Watching God- Kyle Carey',
-            image: '',
+            image: '<em>Their Eyes Were Watching God</em> also dives heavily into gender relations and expectations - with Janie being considered “frivolous” and having multiple partners throughout the book. She is married to her first husband - Logan Killicks - by her grandmother who is only thinking of financial security. Janie is treated almost like a pack mule by Logan, so when Joe Starks flirts with her she doesn’t shy away. Eventually she marries Joe, but is treated even worse - she\’s beaten and told to be quiet often and is never sexually satisfied as Joe is impotent. She eventually breaks the norm and berates Joe in public, and he beats her, however he falls ill and eventually dies, leaving Janie feeling free. She eventually meets Tea Cake - a man much younger than her - and begins a relationship with him once again breaking gender norms. They love each other and treat each other great, until eventually Tea Cake gets rabies and their relationship dissolves as he goes insane, until she has to kill him. Janie represents just how difficult it was for women to find a loving non-business marriage, and how women felt as if they had little say in their marriages.<br>“She knew now that marriage did not make love. Janie\’s first dream was dead, so she became a woman” (Hurston, 57).',
             description: 'add text',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
