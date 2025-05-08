@@ -156,7 +156,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Gender in Their Eyes Were Watching God- Kyle Carey',
-            image: '',
+            image: './assets/pear_tree.jpeg',
             description: '<em>Their Eyes Were Watching God</em> also dives heavily into gender relations and expectations - with Janie being considered “frivolous” and having multiple partners throughout the book. She is married to her first husband - Logan Killicks - by her grandmother who is only thinking of financial security. Janie is treated almost like a pack mule by Logan, so when Joe Starks flirts with her she doesn\’t shy away. Eventually she marries Joe, but is treated even worse - she\’s beaten and told to be quiet often and is never sexually satisfied as Joe is impotent. She eventually breaks the norm and berates Joe in public, and he beats her, however he falls ill and eventually dies, leaving Janie feeling free. She eventually meets Tea Cake - a man much younger than her - and begins a relationship with him once again breaking gender norms. They love each other and treat each other great, until eventually Tea Cake gets rabies and their relationship dissolves as he goes insane, until she has to kill him. Janie represents just how difficult it was for women to find a loving non-business marriage, and how women felt as if they had little say in their marriages.<br>“She knew now that marriage did not make love. Janie\’s first dream was dead, so she became a woman” (Hurston, 57).',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
