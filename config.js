@@ -137,7 +137,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Race in Their Eyes Were Watching God- Kyle Carey',
-            image: './assets/teewg_cover.jpeg',
+            image: './assets/eyes_watching_god.jpeg',
             description: 'add text',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
