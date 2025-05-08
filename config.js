@@ -252,7 +252,7 @@ var config = {
             hidden: false,
             title: 'Race in Salvage The Bones- Camren Rutz',
             image: './assets/stb_cover.jpeg',
-            description: 'add text',
+            description: 'Race is an interesting thing in <em>Salvage The Bones</em>. The fact that just about all of the main characters are African American, reveals lingering effects of the past. Though the South has been desegregated for sometime now, Blacks and Whites still remain separated in their communities. While this specific topic is not explicitly mentioned in the book, it is apparent. This aspect of racially separated communities tells the story that even though the South is no longer segregated, different races do not often intermix in a communal aspect.',
             location: {
                 center: [-89.26806244331303, 30.400637931513852], 
                 zoom: 6.5,
