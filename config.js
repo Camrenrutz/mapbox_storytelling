@@ -119,7 +119,7 @@ var config = {
             hidden: false,
             title: 'Time Period of Their Eyes Were Watching God- Kyle Carey',
             image: './assets/florida_1930.jpg',
-            description: 'add text',
+            description: '<em>Their Eyes Were Watching God </em> is a book that takes place during the late 1920s and early 1930s, a difficult time period for both African Americans and women. With Jim Crow laws in effect it would have been difficult for African Americans to exercise autonomy in places they weren’t familiar with, as lynchings and kidnappings were happening across the south. The 19th amendment had been passed at least, so even though women had it tough at home they had some constitutional rights.Notable historical events: FDR is elected in 1932 - first of his four elections, FDR promised the American people he would raise the country out of the Great Depression, The Scottsboro boys - A landmark legal battle in the 1930s in which nine Black teenagers were falsely accused of raping two white women, 8 of 9 were sentenced to death until the boys were given a fair trial, and First Lady Eleanor Roosevelt - Eleanor used her influence to advocate for social reform, including civil rights, voting rights for women, and social security.',
             location: {
                 center: [-81.38643808791495, 28.618579170446417], 
                 zoom: 6.5,
